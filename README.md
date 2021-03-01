@@ -12,3 +12,9 @@ modules used:
 3). MongoDB
 4). Nodemon
 5). Body Parser
+
+
+To run the file :
+-- npm install (To install all the packages used in this system)
+-- npm start (To start the server)
+-- localhost:3000 (The port is set to 3000)
